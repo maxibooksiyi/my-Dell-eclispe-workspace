@@ -1,0 +1,51 @@
+-- VERSION_5
+-- START DISKCACHE_2
+F:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\tensorflow_test\com.python.pydev.analysis\v2_indexcache
+1|1552453669815699000|F:\eclipse-workspace\tensorflow_test\1.py
+5_2_CNN_MNIST|1546960142485978000|F:\eclipse-workspace\tensorflow_test\5_2_CNN_MNIST.py
+6_1_AlexNet|1546960303170552000|F:\eclipse-workspace\tensorflow_test\6_1_AlexNet.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+6=1
+5=F:\eclipse-workspace\tensorflow_test\1.py
+1=F:\eclipse-workspace\tensorflow_test\5_2_CNN_MNIST.py
+2=5_2_CNN_MNIST
+4=6_1_AlexNet
+3=F:\eclipse-workspace\tensorflow_test\6_1_AlexNet.py
+-- END DICTIONARY
+-- START TREE 1
+29
+acc|1|accuracy!1^68#1*19@
+b_c|2|b_conv1!1^43#1*19@b_conv2!1^48#1*19@
+b_f|2|b_fc1!1^53#1*19@b_fc2!1^61#1*19@
+bat|2|batch!1^71#3*19@batch_size!3^22#1*35@
+bia|1|bias_variable!1^27#5*18@
+con|1|conv2d!1^31#5*18@
+cor|1|correct_prediction!1^67#1*19@
+cro|1|cross_entropy!1^64#1*19@
+h_c|2|h_conv2!1^49#1*19@h_conv1!1^44#1*19@
+h_f|2|h_fc1_drop!1^58#1*19@h_fc1!1^55#1*19@
+h_p|3|h_pool2!1^50#1*19@h_pool2_flat!1^54#1*19@h_pool1!1^45#1*19@
+inf|1|inference!3^29#5*34@
+kee|1|keep_prob!1^57#1*19@
+l1|1|l1!5^12#1*51@
+max|1|max_pool_2x2!1^34#5*18@
+mni|1|mnist!1^19#1*19@
+num|1|num_batches!3^23#1*35@
+pri|1|print_activations!3^25#5*34@
+run|1|run_benchmark!3^156#5*34@
+ses|1|sess!1^20#1*19@
+tim|1|time_tensorflow_run!3^124#5*34@
+tra|2|train_step!1^65#1*19@train_accuracy!1^74#5*19@
+w_c|2|W_conv1!1^42#1*19@W_conv2!1^47#1*19@
+w_f|2|W_fc1!1^52#1*19@W_fc2!1^60#1*19@
+wei|1|weight_variable!1^23#5*18@
+x|1|x!1^38#1*19@
+x_i|1|x_image!1^40#1*19@
+y_|1|y_!1^39#1*19@
+y_c|1|y_conv!1^62#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

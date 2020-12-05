@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/generate_data.py=utf-8
+encoding//src/parameters.py=utf-8
+encoding//src/parameters2.py=utf-8
+encoding//src/plot_3d_test.py=utf-8
+encoding//src/rnn_kpi_predict.py=utf-8
+encoding//src/rnn_kpi_predict2.py=utf-8
+encoding//src/rnn_kpi_train.py=utf-8
+encoding//src/rnn_kpi_train2.py=utf-8
+encoding//src/support_functions.py=utf-8
+encoding//src/support_functions2.py=utf-8

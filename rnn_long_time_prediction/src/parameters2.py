@@ -1,0 +1,31 @@
+# -*- coding:utf-8 -*-
+'''
+Created on 2017年12月21日
+
+@author: chch
+'''
+
+
+
+DATA_DIR='Data'
+DATA_FILE='/'.join([DATA_DIR,'data.json'])
+KPI_CSV_FILE='/'.join([DATA_DIR,'data.txt'])
+
+TRAINING_SAMPLES =12*24*5
+TIMESTEPS = 12*24
+PREDICTION_STEPS=12*12
+
+MODEL_DIR='Model'
+GRAPH_FILE='/'.join([MODEL_DIR,'graph.pb'])
+
+
+HIDDEN_SIZE = 30
+NUM_LAYERS = 2
+
+# TRAINING_STEPS = 80000
+TRAINING_STEPS = 80000
+BATCH_SIZE = 100
+PRINT_INTERVAL = 100
+
+PLOT3D_SAMPLES=288
+

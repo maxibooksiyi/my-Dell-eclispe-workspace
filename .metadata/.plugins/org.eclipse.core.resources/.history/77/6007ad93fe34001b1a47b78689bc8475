@@ -1,0 +1,10 @@
+
+public class point
+{
+	int[] a=new int[2];
+	float[] b=new float[2];
+	
+	
+}
+
+

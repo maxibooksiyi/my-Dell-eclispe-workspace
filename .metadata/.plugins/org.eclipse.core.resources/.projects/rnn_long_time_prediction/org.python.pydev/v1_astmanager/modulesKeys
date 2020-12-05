@@ -1,0 +1,7 @@
+MODULES_MANAGER_V2
+generate_data|F:\eclipse-workspace\rnn_long_time_prediction\src\generate_data.py
+parameters2|F:\eclipse-workspace\rnn_long_time_prediction\src\parameters2.py
+plot_3d_test|F:\eclipse-workspace\rnn_long_time_prediction\src\plot_3d_test.py
+rnn_kpi_predict2|F:\eclipse-workspace\rnn_long_time_prediction\src\rnn_kpi_predict2.py
+rnn_kpi_train2|F:\eclipse-workspace\rnn_long_time_prediction\src\rnn_kpi_train2.py
+support_functions2|F:\eclipse-workspace\rnn_long_time_prediction\src\support_functions2.py

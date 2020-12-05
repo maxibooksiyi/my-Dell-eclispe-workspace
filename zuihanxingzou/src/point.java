@@ -1,0 +1,9 @@
+
+public class point
+{
+	float[] a=new float[2];    //直角坐标
+	float[] b=new float[2];   //极坐标
+	
+}
+
+

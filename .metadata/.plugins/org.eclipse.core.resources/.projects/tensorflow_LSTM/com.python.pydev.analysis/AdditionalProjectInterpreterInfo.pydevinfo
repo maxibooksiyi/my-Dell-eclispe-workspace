@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_2
+F:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\tensorflow_LSTM\com.python.pydev.analysis\v2_indexcache
+LSTM|1604207699476766000|F:\eclipse-workspace\tensorflow_LSTM\LSTM.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=LSTM
+1=F:\eclipse-workspace\tensorflow_LSTM\LSTM.py
+-- END DICTIONARY
+-- START TREE 1
+10
+bat|1|BATCH_SIZE!1^12#1*19@
+gen|1|generate_data!1^19#5*18@
+hid|1|HIDDEN_SIZE!1^8#1*19@
+lst|1|lstm_model!1^31#5*18@
+num|1|NUM_LAYERS!1^9#1*19@
+run|1|run_eval!1^82#5*18@
+sam|1|SAMPLE_GAP!1^15#1*19@
+tes|3|TESTING_EXAMPLES!1^14#1*19@test_end!1^120#1*19@test_start!1^119#1*19@
+tim|1|TIMESTEPS!1^10#1*19@
+tra|3|TRAINING_EXAMPLES!1^13#1*19@TRAINING_STEPS!1^11#1*19@train!1^64#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
